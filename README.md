@@ -1,2 +1,2 @@
 # threading-various-languages
-Console minigame with threads
+A console minigame using threads in various languages just to play around and see the different approaches
